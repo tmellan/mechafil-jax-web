@@ -13,7 +13,7 @@ import jax.numpy as jnp
 
 import streamlit as st
 import streamlit.components.v1 as components
-import st_debug as d
+# import st_debug as d
 import altair as alt
 
 import mechafil_jax.data as data
